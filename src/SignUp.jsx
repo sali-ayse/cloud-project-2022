@@ -1,5 +1,5 @@
 import { useState } from "react";
-
+// Sign up
 export const SignUp = (props) => {
   const [email, setEmail] = useState('');
   const [pass, setPass] = useState('');
