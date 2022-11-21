@@ -3,6 +3,7 @@ import './App.css';
 import { SignIn } from './SignIn';
 import { SignUp } from './SignUp';
 
+// App
 function App() {
   const [currentForm, setCurrentForm] = useState('signin');
 
